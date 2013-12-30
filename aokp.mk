@@ -18,7 +18,7 @@ TARGET_SCREEN_WIDTH := 480
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := c1905
-PRODUCT_NAME := cm_c1905
+PRODUCT_NAME := aokp_c1905
 PRODUCT_BRAND := sony
 PRODUCT_MODEL := C1905
 PRODUCT_MANUFACTURER := sony
